@@ -1,4 +1,4 @@
-<h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, eu sou Bruno Bartolomeu</h1>
+<h1>Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, I am Bruno Bartolomeu</h1>
 <div style="background-color: #41A36B" >Teste</div>
  <div>
   <a href="https://github.com/BrunoCBart">
