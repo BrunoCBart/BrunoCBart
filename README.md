@@ -1,5 +1,4 @@
 <h1>Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, I am Bruno Bartolomeu</h1>
-<div style="background-color: #41A36B" >Teste</div>
  <div>
   <a href="https://github.com/BrunoCBart">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=BrunoCbart&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
