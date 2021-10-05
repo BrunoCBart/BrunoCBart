@@ -4,7 +4,6 @@
 - Estou situado em Taubaté SP
 - Estudante na [Trybe
 ](https://www.betrybe.com/)
-- Tenho como objetivo juntar as minhas duas paixões programação e desenho
 
  <div>
   <a href="https://github.com/BrunoCBart">
