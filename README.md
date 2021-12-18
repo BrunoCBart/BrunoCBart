@@ -1,7 +1,7 @@
 <h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, Eu sou Bruno Bartolomeu</h1>
 
 ## Sou desenvolvedor web
-- [Meu portfolio de projetos](https://brunocbart.github.io/)
+- [Meu portfolio de projetos](https://brunobcb-portfolio.surge.sh/)
 - Estudante na [Trybe
 ](https://www.betrybe.com/)
 
