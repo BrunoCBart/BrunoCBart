@@ -1,5 +1,13 @@
 <h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, Eu sou Bruno Bartolomeu</h1>
 
+## Sobre
+
+Olá!, eu sou Bruno, tenho 22 anos e estou estudando desenvolvimento web na Trybe uma formação fullsatck, me interessei por programação no início de 2021, e, até então tive muitas experiências positivas programando, conheci várias pessoas íncriveis, quebrei a cabeça com código, aprendi a aprender e cá estou, sempre tentando ser melhor do que ontem.
+
+Além de programação tenho interesse em tipografia, UI e design gráfico, criar uma aplicação atrativa para os olhos é muito importante para atrair novos clientes além do fato de que dá uma sensação muito boa quando tudo faz sentido na tela.
+
+Fora isso, sou um amante de livros, principalmente de filosofia, pratico calistenia (treino com o peso do corpo), corrida e sou vegano a 4 anos.
+
 ## Sou desenvolvedor web
 - [Meu portfolio de projetos](https://brunobcb-portfolio.surge.sh/)
 - Estudante na [Trybe
