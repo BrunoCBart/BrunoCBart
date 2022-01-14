@@ -26,7 +26,7 @@
 <div style="display: flex; padding: 1rem;background-color: rgba(216, 216, 216)"><br>
  <div>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/3668/3668474.png">
-  Backend
+  <p>Backend</p>
  </div>
 </div>
  
