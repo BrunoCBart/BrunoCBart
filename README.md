@@ -6,7 +6,7 @@ Olá!, eu sou Bruno, tenho 22 anos e estou estudando desenvolvimento web na Tryb
 
 Além de programação tenho interesse em tipografia, UI e design gráfico, criar uma aplicação atrativa para os olhos é muito importante para atrair novos clientes além do fato de que dá uma sensação muito boa quando tudo faz sentido na tela.
 
-Fora isso, sou um amante de livros, principalmente de filosofia, pratico calistenia (treino com o peso do corpo), corrida e sou vegano há4 anos.
+Fora isso, sou um amante de livros, principalmente de filosofia, pratico calistenia (treino com o peso do corpo), corrida e sou vegano há 4 anos.
 
 ## Sou desenvolvedor web
 - [Meu portfolio de projetos](https://bruno-bcb-portfolio.surge.sh/)
