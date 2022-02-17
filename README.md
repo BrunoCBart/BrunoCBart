@@ -9,7 +9,7 @@ Além de programação tenho interesse em tipografia, UI e design gráfico, cria
 Fora isso, sou um amante de livros, principalmente de filosofia, pratico calistenia (treino com o peso do corpo), corrida e sou vegano há 4 anos.
 
 ## Sou desenvolvedor web
-- [Meu portfolio de projetos](https://brunobcb-portfolio.surge.sh/)
+- [Meu portfolio de projetos](https://brunocbart.github.io/)
 - Estudante na [Trybe
 ](https://www.betrybe.com/)
 
