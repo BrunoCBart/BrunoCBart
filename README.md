@@ -1,7 +1,7 @@
 ### FULLSTACK WEB DEVELOPER
 
 
-<h2>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, I am Bartolomeu</h2>
+<h2>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, I am Bruno Bartolomeu</h2>
 
 Olá!, eu sou Bruno, tenho 22 anos e estou estudando desenvolvimento web na Trybe uma formação fullstack, me interessei por programação no início de 2021, e, até então tive muitas experiências positivas programando, conheci várias pessoas íncriveis, quebrei a cabeça com código, aprendi a aprender e cá estou, sempre tentando ser melhor do que ontem.
 
