@@ -10,8 +10,8 @@ What pushes me is my potential to help people in the future and generate value, 
 <p>I love reading books, especially philosophy genre, I'm also a calisthenics enthusiast and been vegan for 4 years.</p>
 
 ## Sou desenvolvedor web
-- [Meu portfolio de projetos](https://brunocbart.github.io/)
-- Estudante na [Trybe
+- [My web portfolio](https://brunocbart.github.io/)
+- Student in [Trybe
 ](https://www.betrybe.com/)
 
  <div>
