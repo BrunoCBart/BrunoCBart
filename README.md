@@ -44,3 +44,8 @@ What pushes me is my potential to help people in the future and generate value, 
 <div> 
   <a href="https://www.linkedin.com/in/brunobartolomeu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+ 
+ <div>
+  <p>Profile views since 11/21/2021:</p>
+  <p><img alingn="center" src="https://profile-counter.glitch.me/BrunoCBart/count.svg"></p>
+</div>
