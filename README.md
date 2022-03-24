@@ -20,7 +20,7 @@ What pushes me is my potential to help people in the future and generate value, 
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCbart&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact"/>
 <div>
 
-## Habilidades
+## Skills
 
 <div style="display: flex; padding: 1rem;background-color: rgba(216, 216, 216); "><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,7 +30,7 @@ What pushes me is my potential to help people in the future and generate value, 
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
-  ## Aprendendo
+  ## Learning
 
 <div style="display: flex; padding: 1rem;background-color: rgba(216, 216, 216)"><br>
  <div style="background-color: #ffffff">
@@ -39,7 +39,7 @@ What pushes me is my potential to help people in the future and generate value, 
  </div>
 </div>
  
-## Contato
+## Contact
 
 <div> 
   <a href="https://www.linkedin.com/in/brunobartolomeu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
