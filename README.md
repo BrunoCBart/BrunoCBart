@@ -1,7 +1,7 @@
 # FULLSTACK WEB DEVELOPER
 
 
-<h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, Eu sou Bruno Bartolomeu</h1>
+<h2>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, Eu sou Bruno Bartolomeu</h2>
 
 ## Sobre
 
