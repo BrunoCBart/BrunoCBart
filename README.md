@@ -3,9 +3,10 @@
 
 <strong>Hello, I am Bruno Bartolomeu <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"></strong> 
 
-I am 23 years old and live in Taubaté, state of São Paulo, Brazil, I love pushing my limits no matter the subject, I began my coding journey at the beggining of 2021 since then I'v been coding/programming almost every single day, what pushes me is my potential to help people in the future and generate value, I don't want to end up being just a sack of potential, so, I'm enjoying the process making friends, mistakes, sucesses so that one day I may fulfill my dreams.
+<p>I am 23 years old and live in Taubaté, state of São Paulo, Brazil, I love pushing my limits no matter the subject, I began my coding journey at the beggining of 2021 since then I'v been coding/programming almost every single day, what pushes me is my potential to help people in the future and generate value, I don't want to end up being just a sack of potential, so, I'm enjoying the process making friends, mistakes, sucesses so that one day I may fulfill my dreams.
+</p>
 
-I love reading books, especially philosophy genre, I also am a calisthenics enthusiast and been vegan for 4 years.
+<p>I love reading books, especially philosophy genre, I also am a calisthenics enthusiast and been vegan for 4 years.</p>
 
 ## Sou desenvolvedor web
 - [Meu portfolio de projetos](https://brunocbart.github.io/)
