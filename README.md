@@ -11,7 +11,8 @@ const aboutMe = {
  age: '23 years old',
  languages: ['JavaScript ES6', 'Node', 'typescript' 'Html', 'CSS'],
  frameworks: ['React', 'Jest'],
- skills: ['mysql', 'sequelize', 'docker']
+ skills: ['mysql', 'sequelize', 'docker'],
+ tools: ['redux', 'hooks']
  soft-skills: [
     'creativity',
     'leadership',
@@ -20,7 +21,7 @@ const aboutMe = {
     'emotional intelligence',
     'organization'
  ]
-}
+};
 ```
 
 
