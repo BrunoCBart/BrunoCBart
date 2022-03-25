@@ -3,7 +3,7 @@
 
 <strong>Hello, I am Bruno Bartolomeu <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"></strong> 
 
-<image style="width:20%;" align="rigth" src="https://nt3rp.io/media/avatar-fs.png">
+<image style="width:250px;" align="right"  src="https://nt3rp.io/media/avatar-fs.png">
 
 ```Javascript
 const aboutMe = {
