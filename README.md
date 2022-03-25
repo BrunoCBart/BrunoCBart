@@ -12,7 +12,7 @@ const aboutMe = {
  languages: ['JavaScript ES6', 'Node', 'typescript' 'Html', 'CSS'],
  frameworks: ['React', 'Jest'],
  skills: ['mysql', 'sequelize', 'docker'],
- tools: ['redux', 'hooks']
+ tools: ['redux', 'hooks'],
  soft-skills: [
     'creativity',
     'leadership',
