@@ -10,7 +10,7 @@ const aboutMe = {
  name: 'Bruno Corrêa Bartolomeu',
  age: '23 years old',
  languages: ['JavaScript ES6', 'Node', 'typescript' 'Html', 'CSS'],
- frameworks: ['React', 'Jest'],
+ frameworks: ['React', 'Jest', 'express'],
  skills: ['mysql', 'sequelize', 'docker'],
  tools: ['redux', 'hooks'],
  soft-skills: [
