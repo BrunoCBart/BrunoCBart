@@ -34,7 +34,7 @@ What pushes me is my potential to help people in the future and generate value, 
 
 ## More info
 - [My web portfolio](https://brunocbart.github.io/)
-- Student in [Trybe
+- Student at [Trybe
 ](https://www.betrybe.com/)
 
  <div>
