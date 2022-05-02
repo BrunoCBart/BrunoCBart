@@ -21,7 +21,8 @@ const aboutMe = {
     'resilience',
     'emotional intelligence',
     'organization'
- ]
+ ],
+ learning: ['Typescript', 'CSS', 'Backend']
 };
 ```
 
