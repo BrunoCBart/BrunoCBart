@@ -44,27 +44,6 @@ What pushes me is my potential to help people in the future and generate value, 
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCbart&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact"/>
 <div>
 
-## Skills
-
-<div style="display: flex; padding: 1rem;background-color: rgba(216, 216, 216); "><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div>
-  
-  ## Learning
-
-<div style="display: flex; padding: 1rem;background-color: rgba(216, 216, 216)"><br>
- <div style="background-color: #ffffff">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/3668/3668474.png">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
- </div>
-</div>
- 
 ## Contact
 
 <div> 
