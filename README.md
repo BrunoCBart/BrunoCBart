@@ -11,7 +11,7 @@ const aboutMe = {
  age: '23 years old',
  languages: ['JavaScript ES6', 'Node', 'typescript' 'Html', 'CSS'],
  frameworks: ['React', 'Jest', 'express'],
- orms: ['sequelize']
+ orms: ['sequelize'],
  databases: ['mysql'],
  tools: ['redux', 'hooks', 'docker'],
  soft-skills: [
