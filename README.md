@@ -1,7 +1,7 @@
 ### FULLSTACK WEB DEVELOPER
 
 
-<strong style="font-size:1.3rem">Hello, I am Bruno Bartolomeu <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"></strong> 
+<strong style="font-size:1.3rem">Hello, I am Bruno Bartolomeu</strong> 
 
 <image style="width:250px;" align="right"  src="https://nt3rp.io/media/avatar-fs.png">
 
